@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\tyswinreportfrmcargardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_win_report\\tys_wim_report\\tyswinreportfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|C:\\Users\\Marroquin\\source\\repos\\TYS_WIN_REPORT\\tys_wim_report\\tyswinreportfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\tyswinreportfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -66,8 +66,7 @@
               "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIN_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmMain.cs [Dise\u00F1o]",
               "RelativeToolTip": "TYS_WIM_REPORT\\TysWinReportFrmMain.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T04:44:55.025Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-04T04:44:55.025Z"
             }
           ]
         }

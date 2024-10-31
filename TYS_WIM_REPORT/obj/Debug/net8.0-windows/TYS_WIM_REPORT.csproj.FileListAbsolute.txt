@@ -282,6 +282,7 @@ C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-w
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.AssemblyInfoInputs.cache
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.AssemblyInfo.cs
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.csproj.CoreCompileInputs.cache
+C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.sourcelink.json
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_.35497929.Up2Date
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.dll
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\refint\TYS_WIM_REPORT.dll

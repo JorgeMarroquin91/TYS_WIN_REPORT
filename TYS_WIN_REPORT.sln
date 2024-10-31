@@ -5,8 +5,6 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TYS_WIM_REPORT", "TYS_WIM_REPORT\TYS_WIM_REPORT.csproj", "{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TYS_WIM_REPORT_SETUP", "TYS_WIM_REPORT_SETUP\TYS_WIM_REPORT_SETUP.vdproj", "{8D8CB04F-AC2F-431C-9FBE-85387690A758}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		All|Any CPU = All|Any CPU
@@ -23,10 +21,6 @@ Global
 		{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
 		{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D8CB04F-AC2F-431C-9FBE-85387690A758}.All|Any CPU.ActiveCfg = Debug
-		{8D8CB04F-AC2F-431C-9FBE-85387690A758}.Debug|Any CPU.ActiveCfg = Debug
-		{8D8CB04F-AC2F-431C-9FBE-85387690A758}.DefaultBuild|Any CPU.ActiveCfg = Debug
-		{8D8CB04F-AC2F-431C-9FBE-85387690A758}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="TysWinReportFrmCalcularTPDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmCargarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmClasificacionVehicular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmConf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmConfiguracionCarril.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmConteoPorPeriodoYClasificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmConteoVehicularPorPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmEstacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmCopy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmPath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TysWinReportFrmConteoVehicularPorDiaYClasificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Reportes\ConteoVehicularPorDiaYClasificacion\DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Reportes\PesoDetalle\DataSet2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Reportes\TPDA\DataSet3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

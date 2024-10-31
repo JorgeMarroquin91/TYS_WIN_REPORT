@@ -1,0 +1,10 @@
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\HTMonitorNet8.HTMonitorFrmConf.resources
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\HTMonitorNet8.HTMonitorFrmCopy.resources
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\HTMonitorNet8.HTMonitorFrmMain.resources
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\HTMonitorNet8.HTMonitorFrmPath.resources
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\TYS-WIM-REPORT.Properties.Resources.resources
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\TYS-WIM-REPORT.csproj.GenerateResource.cache
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\TYS-WIM-REPORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\TYS-WIM-REPORT.AssemblyInfoInputs.cache
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\TYS-WIM-REPORT.AssemblyInfo.cs
+C:\Users\Marroquin\source\repos\HTMonitorNet8\HTMonitorNet8\obj\Debug\net8.0-windows\TYS-WIM-REPORT.csproj.CoreCompileInputs.cache

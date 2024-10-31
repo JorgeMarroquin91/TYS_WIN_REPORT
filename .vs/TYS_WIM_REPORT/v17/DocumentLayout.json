@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIN_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\repositorios\\commands\\configuracioncarrilrepositorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIN_REPORT.csproj|solutionrelative:tys_wim_report\\repositorios\\commands\\configuracioncarrilrepositorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\tyswinreportfrmcalculartpda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\tyswinreportfrmcalculartpda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\reportes\\conteovehicularpordiayclasificacion\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\reportes\\conteovehicularpordiayclasificacion\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\reportes\\pesodetalle\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\reportes\\pesodetalle\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\tyswinreportfrmconteoporperiodoyclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\tyswinreportfrmconteoporperiodoyclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\reportes\\conteovehicularpordiayclasificacion\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\reportes\\conteovehicularpordiayclasificacion\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\tyswinreportfrmconteoporperiodoyclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\tyswinreportfrmconteoporperiodoyclasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|c:\\users\\marroquin\\source\\repos\\tys_wim_report\\tys_wim_report\\interfaces\\itpda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF31FBB-9C9B-4563-BB4B-2FD02E4F5A4B}|TYS_WIM_REPORT\\TYS_WIM_REPORT.csproj|solutionrelative:tys_wim_report\\interfaces\\itpda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfiguracionCarrilRepositoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Repositorios\\Commands\\ConfiguracionCarrilRepositoryCommand.cs",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\Repositorios\\Commands\\ConfiguracionCarrilRepositoryCommand.cs",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Repositorios\\Commands\\ConfiguracionCarrilRepositoryCommand.cs",
+              "RelativeToolTip": "TYS_WIM_REPORT\\Repositorios\\Commands\\ConfiguracionCarrilRepositoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:53:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TysWinReportFrmCalcularTPDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmCalcularTPDA.cs",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\TysWinReportFrmCalcularTPDA.cs",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmCalcularTPDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TYS_WIM_REPORT\\TysWinReportFrmCalcularTPDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:53:18.894Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\DataSet1.xsd",
+              "RelativeToolTip": "TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-02T05:50:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "RelativeToolTip": "TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:49:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TysWinReportFrmConteoPorPeriodoYClasificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TYS_WIM_REPORT\\TysWinReportFrmConteoPorPeriodoYClasificacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:49:19.339Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\Report1.rdlc",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "TYS_WIM_REPORT\\Reportes\\ConteoVehicularPorDiaYClasificacion\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-08-27T17:02:34.506Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Reportes\\PesoDetalle\\Report2.rdlc",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\Reportes\\PesoDetalle\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Reportes\\PesoDetalle\\Report2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "TYS_WIM_REPORT\\Reportes\\PesoDetalle\\Report2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-08-27T23:08:04.631Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITPDA.cs",
+              "DocumentMoniker": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Interfaces\\ITPDA.cs",
+              "RelativeDocumentMoniker": "TYS_WIM_REPORT\\Interfaces\\ITPDA.cs",
+              "ToolTip": "C:\\Users\\Marroquin\\source\\repos\\TYS_WIM_REPORT\\TYS_WIM_REPORT\\Interfaces\\ITPDA.cs",
+              "RelativeToolTip": "TYS_WIM_REPORT\\Interfaces\\ITPDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:38:07.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

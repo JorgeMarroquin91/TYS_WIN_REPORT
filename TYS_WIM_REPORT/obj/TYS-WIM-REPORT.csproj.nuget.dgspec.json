@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marroquin\\source\\repos\\HTMonitorNet8\\HTMonitorNet8\\TYS-WIM-REPORT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marroquin\\source\\repos\\HTMonitorNet8\\HTMonitorNet8\\TYS-WIM-REPORT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marroquin\\source\\repos\\HTMonitorNet8\\HTMonitorNet8\\TYS-WIM-REPORT.csproj",
+        "projectName": "TYS-WIM-REPORT",
+        "projectPath": "C:\\Users\\Marroquin\\source\\repos\\HTMonitorNet8\\HTMonitorNet8\\TYS-WIM-REPORT.csproj",
+        "packagesPath": "C:\\Users\\Marroquin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marroquin\\source\\repos\\HTMonitorNet8\\HTMonitorNet8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marroquin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

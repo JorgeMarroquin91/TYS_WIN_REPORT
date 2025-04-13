@@ -88,6 +88,7 @@ namespace TYS_WIM_REPORT
 
                 writer.Close();
                 writer.Dispose();
+                MessageBox.Show("Proceso de Carga Finalizado.");
             }
             else
             {
@@ -147,6 +148,8 @@ namespace TYS_WIM_REPORT
 
                 writer.Close();
                 writer.Dispose();
+
+                MessageBox.Show("Proceso de Carga Finalizado.");
             }
 
             this.ocultarLabels();
@@ -166,7 +169,7 @@ namespace TYS_WIM_REPORT
                 if (subirTerminado == 1)
                 {
                     writer.WriteLine("Archivo: " + archivo + " - Cargado exitosamente");
-
+                    
                     if (Directory.Exists(Settings.Default.directorioDestino + "\\" + carpeta))
                     {
                         if (File.Exists(Settings.Default.directorioDestino + "\\" + carpeta + "\\" + archivo))
@@ -186,6 +189,7 @@ namespace TYS_WIM_REPORT
                     }
                 }else if (subirTerminado == 0 || subirTerminado == 2)
                 {
+
                     if (Directory.Exists(Settings.Default.directorioError + "\\" + carpeta))
                     {
                         if (File.Exists(Settings.Default.directorioError + "\\" + carpeta + "\\" + archivo))

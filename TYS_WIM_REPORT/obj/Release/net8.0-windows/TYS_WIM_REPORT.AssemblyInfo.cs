@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TYS_WIM_REPORT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+020ca9a4462cb9866deba44015b601b35ee7c7e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TYS_WIM_REPORT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TYS_WIM_REPORT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

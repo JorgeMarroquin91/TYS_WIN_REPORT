@@ -1083,7 +1083,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
+                                  <Value>total</Value>
                                   <Style>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -1163,7 +1163,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!AL1.Value</Value>
+                                  <Value>=IIF(CStr(Parameters!tipoCamino.Value) like "A2", Fields!AL1.Value + Fields!AL2.Value, Fields!AL1.Value)</Value>
                                   <Style>
                                     <Format>#,0;(#,0)</Format>
                                   </Style>
@@ -1295,7 +1295,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!BL1.Value</Value>
+                                  <Value>=IIF(CStr(Fields!BL2.Value) like "Bl2", Fields!BL1.Value, Fields!BL1.Value + Fields!BL2.Value)</Value>
                                   <Style>
                                     <Format>#,0;(#,0)</Format>
                                   </Style>
@@ -1453,14 +1453,14 @@
                     </TablixCell>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="totalAll">
+                        <Textbox Name="total3">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=(Fields!total.Value/Fields!totalAll.Value)*100</Value>
+                                  <Value>=(Fields!total.Value / Sum(Fields!total.Value, "DataSet1")) * 100</Value>
                                   <Style>
                                     <Format>0.00;(0.00)</Format>
                                   </Style>
@@ -1471,7 +1471,7 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>totalAll</rd:DefaultName>
+                          <rd:DefaultName>total3</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>None</Style>
@@ -1534,7 +1534,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Sum(Fields!AL1.Value)</Value>
+                                  <Value>=IIF(CStr(Parameters!tipoCamino.Value) like "A2", Sum(Fields!AL1.Value) + Sum(Fields!AL2.Value), Sum(Fields!AL1.Value))</Value>
                                   <Style>
                                     <Format>#,0;(#,0)</Format>
                                   </Style>
@@ -1684,7 +1684,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Sum(Fields!BL1.Value)</Value>
+                                  <Value>=IIF(CStr(Fields!BL2.Value) like "Bl2", Sum(Fields!BL1.Value), Sum(Fields!BL1.Value) + Sum(Fields!BL2.Value))</Value>
                                   <Style>
                                     <Format>#,0;(#,0)</Format>
                                   </Style>
@@ -1859,7 +1859,6 @@
                             <PaddingBottom>2pt</PaddingBottom>
                           </Style>
                         </Textbox>
-                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                     <TablixCell>
@@ -1871,8 +1870,10 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value />
-                                  <Style />
+                                  <Value>=Sum(Fields!total.Value)</Value>
+                                  <Style>
+                                    <Format>0.00;(0.00)</Format>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -2260,7 +2261,7 @@
                 </TablixMember>
                 <TablixMember>
                   <Visibility>
-                    <Hidden>=Sum(Fields!AL2.Value, "DataSet1")=0</Hidden>
+                    <Hidden>=Sum(Fields!AL3.Value, "DataSet1")=0 or CStr(Parameters!tipoCamino.Value) &lt;&gt; "A2"</Hidden>
                   </Visibility>
                 </TablixMember>
                 <TablixMember>
@@ -2280,7 +2281,7 @@
                 </TablixMember>
                 <TablixMember>
                   <Visibility>
-                    <Hidden>=Sum(Fields!BL2.Value, "DataSet1")=0</Hidden>
+                    <Hidden>=Sum(Fields!BL2.Value, "DataSet1")=0 Or CStr(Fields!AL2.Value) &lt;&gt; "BL2"</Hidden>
                   </Visibility>
                 </TablixMember>
                 <TablixMember>
@@ -2651,7 +2652,7 @@
               <Top>0.82803cm</Top>
               <Left>2.52285cm</Left>
               <Height>0.6cm</Height>
-              <Width>2.5cm</Width>
+              <Width>5.33612cm</Width>
               <ZIndex>10</ZIndex>
               <Style>
                 <Border>

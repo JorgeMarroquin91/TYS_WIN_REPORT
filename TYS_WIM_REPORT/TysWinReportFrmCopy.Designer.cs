@@ -96,15 +96,17 @@
             // 
             // label5
             // 
+            label5.FlatStyle = FlatStyle.System;
+            label5.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label5.Location = new Point(12, 175);
             label5.Name = "label5";
-            label5.Size = new Size(376, 121);
+            label5.Size = new Size(503, 94);
             label5.TabIndex = 6;
             label5.Text = resources.GetString("label5.Text");
             // 
             // button1
             // 
-            button1.Location = new Point(408, 218);
+            button1.Location = new Point(412, 56);
             button1.Name = "button1";
             button1.Size = new Size(85, 29);
             button1.TabIndex = 7;
@@ -112,11 +114,11 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // HTMonitorFrmCopy
+            // TysWinReportFrmCopy
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(511, 310);
+            ClientSize = new Size(525, 310);
             ControlBox = false;
             Controls.Add(button1);
             Controls.Add(label5);
@@ -127,7 +129,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.FixedDialog;
-            Name = "HTMonitorFrmCopy";
+            Name = "TysWinReportFrmCopy";
             ShowIcon = false;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Acerca de TYS-WIM-REPORT";

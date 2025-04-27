@@ -85,7 +85,7 @@
             btnGenerar.TabIndex = 4;
             btnGenerar.Text = "Generar";
             btnGenerar.UseVisualStyleBackColor = true;
-            btnGenerar.Click += this.btnGenerar_Click;
+            btnGenerar.Click += btnGenerar_Click;
             // 
             // TysWinReportFrmConteoVehicularPorDiaYClasificacion
             // 
@@ -102,10 +102,10 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "TysWinReportFrmConteoVehicularPorDiaYClasificacion";
-            Text = "Conteo vehicular por dia y hora";
+            Text = "Conteo vehicular por día y clasificación";
             WindowState = FormWindowState.Maximized;
-            Load += this.TysWinReportFrmConteoVehicularPorDiaYClasificacion_Load;
-            SizeChanged += this.TysWinReportFrmConteoVehicularPorDiaYClasificacion_SizeChanged;
+            Load += TysWinReportFrmConteoVehicularPorDiaYClasificacion_Load;
+            SizeChanged += TysWinReportFrmConteoVehicularPorDiaYClasificacion_SizeChanged;
             ResumeLayout(false);
             PerformLayout();
         }

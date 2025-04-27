@@ -159,7 +159,7 @@ namespace TYS_WIM_REPORT
             parametros[13] = new ReportParameter("BL2", "BL2");
             parametros[14] = new ReportParameter("BL3", "BL3");
             parametros[15] = new ReportParameter("BL4", "BL4");
-            parametros[16] = new ReportParameter("titulo", "Hora");
+            parametros[16] = new ReportParameter("titulo", "Clase");
             parametros[17] = new ReportParameter("descripcion", "Conteo Vehicular por Día y Clasificación");
             parametros[18] = new ReportParameter("clase", "");
         }

@@ -227,7 +227,7 @@
       <Width>6.5in</Width>
       <Page>
         <PageHeader>
-          <Height>3.1cm</Height>
+          <Height>4.24067cm</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
@@ -280,7 +280,7 @@
                 </Paragraph>
               </Paragraphs>
               <rd:DefaultName>periodo</rd:DefaultName>
-              <Top>2.37067cm</Top>
+              <Top>3.32317cm</Top>
               <Left>4.2345cm</Left>
               <Height>0.6cm</Height>
               <Width>3.6195cm</Width>
@@ -310,7 +310,7 @@
                 </Paragraph>
               </Paragraphs>
               <rd:DefaultName>Textbox3</rd:DefaultName>
-              <Top>2.37067cm</Top>
+              <Top>3.32317cm</Top>
               <Left>0.93016cm</Left>
               <Height>0.6cm</Height>
               <Width>3.30433cm</Width>
@@ -340,10 +340,10 @@
                 </Paragraph>
               </Paragraphs>
               <rd:DefaultName>nombreEmpresa</rd:DefaultName>
-              <Top>1.2175cm</Top>
+              <Top>2.17cm</Top>
               <Left>2.60655cm</Left>
               <Height>0.6cm</Height>
-              <Width>3.31632cm</Width>
+              <Width>12.69315cm</Width>
               <ZIndex>3</ZIndex>
               <Style>
                 <Border>
@@ -359,7 +359,7 @@
               <Source>External</Source>
               <Value>=Parameters!logotipo.Value</Value>
               <Sizing>FitProportional</Sizing>
-              <Top>0.3175cm</Top>
+              <Top>1.27cm</Top>
               <Left>0.909cm</Left>
               <Height>1.5cm</Height>
               <Width>1.5cm</Width>

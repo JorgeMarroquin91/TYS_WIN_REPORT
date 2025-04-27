@@ -82,6 +82,7 @@
             Name = "TysWinReportFrmCalcularTPDA";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Calcular TPDA";
+            WindowState = FormWindowState.Maximized;
             SizeChanged += TysWinReportFrmCalcularTPDA_SizeChanged;
             ResumeLayout(false);
             PerformLayout();

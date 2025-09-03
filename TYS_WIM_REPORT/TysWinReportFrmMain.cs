@@ -6,9 +6,22 @@ namespace HTMonitorNet8
     public partial class TysWinReportFrmMain : Form
     {
         private readonly EmpresaRepositoryQuery _empresaRepositoryQuery = new();
+        private readonly LicenciaRepositoryQuery _licenciaRepositoryQuery = new();
         public TysWinReportFrmMain()
         {
-            InitializeComponent();
+            var licencia = _licenciaRepositoryQuery.GetAll();
+
+            if (DateTime.Now <= new DateTime(Convert.ToInt32(licencia.anio), Convert.ToInt32(licencia.mes), Convert.ToInt32(licencia.dia)))
+            {
+                InitializeComponent();
+            }
+            else
+            {
+                Label licenciaCaducada = new Label();
+                licenciaCaducada.AutoSize = true;
+                licenciaCaducada.Text = "Licencia caducada \ncomunicarse con TYSSA";
+                this.Controls.Add(licenciaCaducada);
+            }
         }
 
         private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
@@ -25,7 +38,6 @@ namespace HTMonitorNet8
                 frmCopy.MdiParent = this;
                 frmCopy.Show();
             }
-
         }
 
         private void periodoActivoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -61,7 +73,7 @@ namespace HTMonitorNet8
         }
 
         private void TysWinRepostFrmMain_Load(object sender, EventArgs e)
-        {
+        {    
             TysWinReportFrmCopy frmCopy = new TysWinReportFrmCopy();
             frmCopy.MdiParent = this;
             this.cargarLogo();
@@ -326,6 +338,22 @@ namespace HTMonitorNet8
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void conteoVehicularNuevaClasificaciónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form? frmConteoNuevaClasificacion = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is TysWinReportFrmConteoNuevaClasificacion);
+
+            if (frmConteoNuevaClasificacion != null)
+            {
+                frmConteoNuevaClasificacion.BringToFront();
+            }
+            else
+            {
+                frmConteoNuevaClasificacion = new TysWinReportFrmConteoNuevaClasificacion();
+                frmConteoNuevaClasificacion.MdiParent = this;
+                frmConteoNuevaClasificacion.Show();
+            }
         }
     }
 }

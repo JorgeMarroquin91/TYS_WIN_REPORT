@@ -53,6 +53,7 @@
             salirToolStripMenuItem = new ToolStripMenuItem();
             toolStripMenuItem1 = new ToolStripMenuItem();
             pictureBox1 = new PictureBox();
+            conteoVehicularNuevaClasificaciónToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -83,7 +84,7 @@
             // 
             // reportesToolStripMenuItem
             // 
-            reportesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { conteoVehicularPorDiaYClasificaciónToolStripMenuItem, conteoVehicularPorPeriodoYClasificaciónToolStripMenuItem, conteoVehicularPorPeriodoToolStripMenuItem, conteoVehicularPorDiaYHoraToolStripMenuItem, conteoVehicularPorDiaToolStripMenuItem, sobrepesoPorDíaYClasificaciónToolStripMenuItem, sobrepesoPorPeriodoYClasificaciónToolStripMenuItem, pesoPorDíaToolStripMenuItem, perToolStripMenuItem, tPDAToolStripMenuItem });
+            reportesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { conteoVehicularPorDiaYClasificaciónToolStripMenuItem, conteoVehicularPorPeriodoYClasificaciónToolStripMenuItem, conteoVehicularPorPeriodoToolStripMenuItem, conteoVehicularPorDiaYHoraToolStripMenuItem, conteoVehicularPorDiaToolStripMenuItem, sobrepesoPorDíaYClasificaciónToolStripMenuItem, sobrepesoPorPeriodoYClasificaciónToolStripMenuItem, pesoPorDíaToolStripMenuItem, perToolStripMenuItem, tPDAToolStripMenuItem, conteoVehicularNuevaClasificaciónToolStripMenuItem });
             reportesToolStripMenuItem.Name = "reportesToolStripMenuItem";
             reportesToolStripMenuItem.Size = new Size(82, 24);
             reportesToolStripMenuItem.Text = "Reportes";
@@ -237,6 +238,13 @@
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
             // 
+            // conteoVehicularNuevaClasificaciónToolStripMenuItem
+            // 
+            conteoVehicularNuevaClasificaciónToolStripMenuItem.Name = "conteoVehicularNuevaClasificaciónToolStripMenuItem";
+            conteoVehicularNuevaClasificaciónToolStripMenuItem.Size = new Size(383, 26);
+            conteoVehicularNuevaClasificaciónToolStripMenuItem.Text = "Conteo vehicular nueva clasificación";
+            conteoVehicularNuevaClasificaciónToolStripMenuItem.Click += conteoVehicularNuevaClasificaciónToolStripMenuItem_Click;
+            // 
             // TysWinReportFrmMain
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -287,5 +295,6 @@
         private ToolStripMenuItem pesoPorDíaToolStripMenuItem;
         private ToolStripMenuItem perToolStripMenuItem;
         private ToolStripMenuItem tPDAToolStripMenuItem;
+        private ToolStripMenuItem conteoVehicularNuevaClasificaciónToolStripMenuItem;
     }
 }

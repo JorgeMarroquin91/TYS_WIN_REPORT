@@ -289,3 +289,4 @@ C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-w
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.pdb
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.genruntimeconfig.cache
 C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\ref\TYS_WIM_REPORT.dll
+C:\Users\Marroquin\source\repos\TYS_WIN_REPORT\TYS_WIM_REPORT\obj\Debug\net8.0-windows\TYS_WIM_REPORT.TysWinReportFrmConteoNuevaClasificacion.resources

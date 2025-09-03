@@ -40,6 +40,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>DataSet3.xsd</DependentUpon>
     </Compile>
+    <Compile Update="TysWinReportFrmConteoNuevaClasificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="TysWinReportFrmPesoPorPeriodoYClasificacion.cs">
       <SubType>Form</SubType>
     </Compile>
